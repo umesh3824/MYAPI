@@ -2,10 +2,8 @@
 /*##########Script Information#########
   # Purpose: Send mail Using PHPMailer#
   #          & Gmail SMTP Server 	  #
-  # Created: 24-11-2019 			  #
-  #	Author : Hafiz Haider			  #
+  #	Author : Umesh Chaudhari		  #
   # Version: 1.0					  #
-  # Website: www.BroExperts.com 	  #
   #####################################*/
 
 //Include required PHPMailer files
