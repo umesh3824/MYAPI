@@ -16,11 +16,8 @@ class CSV{
     }
 }
 
-
 // $CSVObj=new CSV('dummy.csv');
 // $CSVObj->setHeader(['name','mobile no']);
 // $data = ['FB','585955'];
 // $CSVObj->setData($data);
-
-
 ?>
